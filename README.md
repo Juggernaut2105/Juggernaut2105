@@ -1,5 +1,5 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-profile-blue)](https://t.me/datalord)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-lightblue)](https://www.kaggle.com/iuriierilov)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-lightblue)](https://www.kaggle.com/maximsamoylov)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Juggernaut2105.Juggernaut2105)
 [![GitHub Juggernaut2105](https://img.shields.io/github/followers/Juggernaut2105?label=follow&style=social)](https://github.com/Juggernaut2105)
 
