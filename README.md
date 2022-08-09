@@ -8,7 +8,7 @@
 
 I'm Maxim, a young **Data Scientist**
 * have experience working with  **ML, DL, Time Series, NLP, CV, Audio**
-* have **project management skills** (Software engineering at FEFU)
+* have **project management skills** (data science in MISIS)
 * know basic of **web design**
 
 I develop various models for practical purposes and  participate in professional activities.
