@@ -4,18 +4,18 @@
 [![GitHub Juggernaut2105](https://img.shields.io/github/followers/Juggernaut2105?label=follow&style=social)](https://github.com/Juggernaut2105)
 
 ---
-## Hi there 👋
+## Hello there 👋
 
-I'm Maxim, a young **Data Scientist**
+I'm Maxim, an aspiring **Data Scientist**
 * experienced working with  **ML, DL, Time Series, NLP, CV, Audio**
-* possess **project management skills** (data science in MISIS)
+* possess **project management skills** 
 * aware of basics for **web design**
 
 I develop various models for practical purposes and  participate in professional activities.
 
 ## More about me
 
-I am persuing master's degree in data science in MISIS.
+I am pursuing master's degree in data science from National Technological University MISIS.
 Often I participate in hackathons to develop my **hard** and **soft skills**.
 
 ## 💼 Skills
