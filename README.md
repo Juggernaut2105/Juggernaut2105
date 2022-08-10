@@ -6,14 +6,14 @@
 ---
 ## Hello there 👋
 
-I'm Maxim, an aspiring **Data Scientist** 🚀
+I'm Maxim, an aspiring **Data Scientist** 
 * experienced working with  **ML, DL, Time Series, NLP, CV, Audio**
 * possess **project management skills** 
 * aware of basics for **web design**
 
 I develop various models for practical purposes and  participate in professional activities.
 
-## More about me
+## 🚀 More about me
 
 I am pursuing master's degree in data science from National Technological University MISIS.
 Often I participate in hackathons to practice and further develop my **hard** and **soft skills**.
