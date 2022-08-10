@@ -16,7 +16,7 @@ I develop various models for practical purposes and  participate in professional
 ## More about me
 
 I am pursuing master's degree in data science from National Technological University MISIS.
-Often I participate in hackathons to develop my **hard** and **soft skills**.
+Often I participate in hackathons to practice and further develop my **hard** and **soft skills**.
 
 ## 💼 Skills
 
