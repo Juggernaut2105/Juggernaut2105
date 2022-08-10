@@ -6,7 +6,7 @@
 ---
 ## Hello there 👋
 
-I'm Maxim, an aspiring **Data Scientist**
+I'm Maxim, an aspiring **Data Scientist** 🚀
 * experienced working with  **ML, DL, Time Series, NLP, CV, Audio**
 * possess **project management skills** 
 * aware of basics for **web design**
