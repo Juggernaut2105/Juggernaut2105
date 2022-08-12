@@ -34,9 +34,10 @@ Often I participate in hackathons to practice and further develop my **hard** an
 ![](https://img.shields.io/badge/Library-Xgboost-informational?style=flat&logo=xgboost&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-LigthGBM-informational?style=flat&logo=xgboost&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Library-Gensim-informational?style=flat&logo=NLTK&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Gensim-informational?style=flat&logo=gensim&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Pymorphy2-informational?style=flat&logo=Pymorphy2&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-BeutifulSoup-informational?style=flat&logo=beuatifulsoup&logoColor=white&color=4AB197)
 
 
 <details>
