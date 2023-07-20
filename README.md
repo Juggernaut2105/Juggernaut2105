@@ -1,6 +1,5 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-profile-blue)](https://t.me/datalord)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-lightblue)](https://www.kaggle.com/maximsamoylov)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Juggernaut2105.Juggernaut2105)
 [![GitHub Juggernaut2105](https://img.shields.io/github/followers/Juggernaut2105?label=follow&style=social)](https://github.com/Juggernaut2105)
 
 ---
@@ -15,7 +14,7 @@ I develop various models for practical purposes and  participate in professional
 
 ## 🚀 More about me
 
-I am pursuing master's degree in data science from National Technological University MISIS.
+I am freshly coined Master of Computer Science from National Technological University MISIS.
 Often I participate in hackathons to practice and further develop my **hard** and **soft skills**.
 
 ## 💼 Skills
